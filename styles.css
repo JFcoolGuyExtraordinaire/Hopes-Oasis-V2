@@ -1,0 +1,38 @@
+body {
+  min-width: 300px;
+  background-color: 50px;
+  text-align: center;
+  background-image: url("background.jpg");
+}
+.timer{
+  display: inline-block;
+  text-align: center;
+  font-family: sans-serif;
+  width: 75%;
+  border-style: dashed;
+  border-color: white;
+  background-color: #82abed;
+  color: white;
+}
+.timer p{
+  display: inline;
+}
+.timeElements{
+  font-size: 30px;
+}
+.voiceSwitch {
+  display: inline;
+  border-style: dashed;
+  border-color: white;
+  background-color: #82abed;
+  width:60%;
+  max-height:10%;
+  color: white;
+}
+.voiceSwitch:hover{
+  display: inline;
+  border-style: dashed;
+  border-color: white;
+  background-color: #abd9f5;
+  color: white;
+}

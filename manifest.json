@@ -15,5 +15,8 @@
   "background": {
     "scripts": ["background.js"]
   },
-  "permissions": ["tabs"]
+  "permissions": ["tabs"],
+  "icons": { "16": "icon.png",
+           "48": "icon.png",
+          "128": "icon.png" }
 }
